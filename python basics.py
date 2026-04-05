@@ -3,7 +3,7 @@
 # Basic types
 name = "Maggie"          # str (string)
 age = 3               # int (integer)
-weight =  70.5          # float (decimal)
+weight =  25.5          # float (decimal)
 isActive = True        # bool (True/False)
 emptyValue = None          # NoneType null value
 names = ["Mohan", "Priya", "Maggie"]  # list (ordered collection)
